@@ -1,0 +1,19 @@
+
+    * create-react-app
+    * functional components
+    * Styling -> Tailwind css
+    * Getting data from api
+    * Emojis
+    * Routing in react
+    * pagination, filtering, sorting, searching features in your UI > assignments
+    * Local Storage
+    * Hosting to netlify
+
+    * UI of Main Page
+    * Main Page
+    * NavBar
+    * Banner
+    * Movies
+    * Pagination
+    * Routing in react
+
